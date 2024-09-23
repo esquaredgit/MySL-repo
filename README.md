@@ -1,2 +1,1 @@
-# MySL-repo
-MySL (My Science Liaison): a Literature-Informed, LLM-Powered Medical Science Liaison
+[View the notebook](liaison-llm.ipynb)
